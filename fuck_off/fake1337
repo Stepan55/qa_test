@@ -1,5 +1,11 @@
 fake some text
 
+<<<<<<< HEAD
 test both side (local)
 
 zzz
+=======
+test both side (remote)
+
+triple zzz remote
+>>>>>>> 1780f9fb16083b089e8285c57359847280af4882
