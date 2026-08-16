@@ -20,3 +20,5 @@ local rep change
 remote rep change
 
 PULL TRYING (FROM REMOTE TO LOCAL)
+
+fetch testing
